@@ -1,0 +1,16 @@
+{
+  "name": "js-starter-code",
+  "version": "1.0.0",
+  "description": "JS Starter Code",
+  "main": "script.js",
+  "scripts": {
+    "start": "lite-server",
+    "browser": "firefox"
+  },
+  "author": "Pluralsight",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "browser": "firefox"
+  }
+}
